@@ -1,6 +1,6 @@
 ::Produto
 #foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -13,8 +13,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -27,8 +27,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -41,8 +41,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -55,8 +55,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -69,8 +69,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -83,8 +83,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -97,8 +97,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -111,8 +111,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
@@ -125,8 +125,8 @@ Roxo
 ::
 
 ::Produto
-#foto
-![Conjuntinho maravilhoso](~/assets/img/conjunto-roxo.jpeg)
+#fot
+![conjunto-roxo.jpeg](/conjunto-roxo.jpeg)
 
 #nome
 Conjuntinho maravilhoso
