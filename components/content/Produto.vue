@@ -2,7 +2,7 @@
 
 <template>
   <article class="product">
-    <ContentSlot :use="$slots.foto" unwrap="img" />
+    <ContentSlot :use="$slots.foto" unwrap="p" />
     <span class="name">
       <ContentSlot :use="$slots.nome" unwrap="p" />
     </span>
@@ -20,5 +20,9 @@ article.product {
   padding: 2rem;
   border: 1px solid black;
   border-radius: 1rem;
+
+  img {
+    width: 100%;
+  }
 }
 </style>
