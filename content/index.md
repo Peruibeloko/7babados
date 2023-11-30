@@ -5,8 +5,8 @@
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -19,8 +19,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -33,8 +33,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -47,8 +47,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -61,8 +61,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -75,8 +75,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -89,8 +89,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -103,8 +103,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -117,8 +117,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30
@@ -131,8 +131,8 @@ Roxo
 #nome
 Conjuntinho maravilhoso
 
-#cor
-Roxo
+#tamanho
+GG
 
 #preco
 30

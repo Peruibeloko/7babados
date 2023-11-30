@@ -1,11 +1,17 @@
 body {
-  background-color: hsl(305, 40%, 90%);
+  background-color: color-mix(in srgb, hsl(0, 0%, 100%) 90%, var(--theme-purple-dark));
 }
 
 header {
-  h1 {
-    text-align: center;
-  }
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 80%;
+  position: relative;
+  margin: auto;
 }
 
 section.product-list > div {
@@ -14,6 +20,39 @@ section.product-list > div {
   gap: 1rem;
 }
 
+hr {
+  width: 60%;
+  margin-top: 3rem;
+  color: var(--theme-purple-dark);
+}
+
 footer {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+
+  font-family: 'Playfair Display', serif;
+  font-size: large;
+  font-weight: 600;
+
+  h2 {
+    color: var(--theme-purple-light);
+  }
+
+  a {
+    text-decoration: none;
+    color: var(--theme-red);
+  }
+}
+
+@media (max-width: 1200px) {
+  main {
+    width: 100%;
+  }
+
+  section.product-list > div {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

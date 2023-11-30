@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Loja 7 Babados</h1>
+    <NuxtImg src="/Logo Transparente.png" :width="144" />
   </header>
   <main>
     <section class="product-list">
@@ -10,7 +10,9 @@
   <hr />
   <footer>
     <h2>Contato</h2>
-    <a href="https://api.whatsapp.com/send/?phone=5511999781394">WhatsApp</a>
+    <a href="https://api.whatsapp.com/send/?phone=5511999781394" target="_blank"
+      >WhatsApp<sup>🔗</sup></a
+    >
   </footer>
 </template>
 
