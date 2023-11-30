@@ -22,6 +22,8 @@ article.product {
   padding: 1rem;
   border: 1px solid var(--theme-purple-dark);
   border-radius: 1.5rem;
+  background-color: hsl(0, 0%, 100%);
+  box-shadow: 0px 0px 3px 0px hsl(0, 0%, 80%);
 
   img {
     width: 100%;
